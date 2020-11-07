@@ -1,0 +1,20 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\bin\Debug\CreateMenu1.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\bin\Debug\CreateMenu1.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\bin\Debug\CreateMenu1.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.Form1.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.Properties.Resources.resources
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.csproj.GenerateResource.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\7. Windows Forms\05 Menu\Sources\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.pdb
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\bin\Debug\CreateMenu1.exe.config
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\bin\Debug\CreateMenu1.exe
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\bin\Debug\CreateMenu1.pdb
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.csprojAssemblyReference.cache
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.Form1.resources
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.Properties.Resources.resources
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.csproj.GenerateResource.cache
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.csproj.CoreCompileInputs.cache
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.exe
+D:\ШАГ\windows forms\пари\7\Menu_ToolBar\CreateMenu1\CreateMenu1\obj\Debug\CreateMenu1.pdb
